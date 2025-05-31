@@ -44,4 +44,13 @@
         margin-bottom: 2.4rem;
     }
     }
+
+    .destino_1,
+    .destino_2 {
+        margin-bottom: 4rem;
+
+        li {
+            color: var(--accent-blue);
+        }
+    }
 }
